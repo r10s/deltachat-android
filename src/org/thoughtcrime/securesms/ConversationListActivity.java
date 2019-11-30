@@ -36,6 +36,8 @@ import com.google.zxing.integration.android.IntentResult;
 import org.thoughtcrime.securesms.components.SearchToolbar;
 import org.thoughtcrime.securesms.map.MapActivity;
 import org.thoughtcrime.securesms.qr.QrCodeHandler;
+import org.thoughtcrime.securesms.qr.QrScanActivity;
+import org.thoughtcrime.securesms.qr.QrShowActivity;
 import org.thoughtcrime.securesms.search.SearchFragment;
 import org.thoughtcrime.securesms.util.DynamicLanguage;
 import org.thoughtcrime.securesms.util.DynamicNoActionBarTheme;
